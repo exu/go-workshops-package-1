@@ -1,4 +1,4 @@
-package pack1
+package somevars
 
 // Some is very important
 var Come = 1
